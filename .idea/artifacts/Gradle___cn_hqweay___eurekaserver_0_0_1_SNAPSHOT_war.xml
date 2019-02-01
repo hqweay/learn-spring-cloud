@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : cn.hqweay : eurekaserver-0.0.1-SNAPSHOT.war">
+    <output-path>$PROJECT_DIR$/eurekaserver/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$/eurekaserver" />
+    </properties>
+    <root id="archive" name="eurekaserver-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Gradle : cn.hqweay : eurekaserver-0.0.1-SNAPSHOT.war (exploded)" />
+    </root>
+  </artifact>
+</component>
