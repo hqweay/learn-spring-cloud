@@ -1,13 +1,10 @@
 server:
-  port: 1111
-
+  port: 8080
 eureka:
-  instance:
-    hostname: localhost
   client:
     # 是否向注册中心注册自己 / 由于该应用为注册中心,故设置为否
-    registerWithEureka: false
+    register-with-eureka: false
     # 检索服务 / 注册中心的职责就是维护服务实例,故不需要去检索服务
-    fetchRegistry: false
-    serviceUrl:
-      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+    fetch-registry: false
+    service-url:
+      defaultZone: http://localhost:8080/eureka/

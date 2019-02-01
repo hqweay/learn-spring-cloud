@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cn.hqweay.eurekaclient.iml" filepath="$PROJECT_DIR$/.idea/modules/cn.hqweay.eurekaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cn.hqweay.eurekaclient.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cn.hqweay.eurekaclient.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cn.hqweay.eurekaclient.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cn.hqweay.eurekaclient.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cn.hqweay.eurekaserver.iml" filepath="$PROJECT_DIR$/.idea/modules/cn.hqweay.eurekaserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cn.hqweay.eurekaserver.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cn.hqweay.eurekaserver.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cn.hqweay.eurekaserver.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cn.hqweay.eurekaserver.test.iml" />

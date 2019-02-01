@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="cn.hqweay.eurekaclient.main" target="1.8" />
+      <module name="cn.hqweay.eurekaclient.test" target="1.8" />
       <module name="cn.hqweay.eurekaserver.main" target="1.8" />
       <module name="cn.hqweay.eurekaserver.test" target="1.8" />
       <module name="cn.hqweay.springcloud-demo.main" target="1.8" />

@@ -1,0 +1,13 @@
+server:
+  port: 8081
+spring:
+  application:
+    # 指定注册服务到 Eureka Server 上的应用名称。
+    name: eureka-client-1
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8080/eureka/
+  instance:
+    # 将自己的ip注册到Eureka Server上，如果是false的话会显示hostname而不是ip地址。
+    prefer-ip-address: true
